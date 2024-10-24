@@ -1,0 +1,5 @@
+print("ce programme d'affiche les droites paralléle ou coissemant")
+Xa=int(input("donner l'abssise Xa : "))
+Ya=int(input("donner l'ordonnée Ya : "))
+Xb=int(input("donner l'abssise Xb : "))
+Yb=int(input("donner l'ordonnée Yb : "))
